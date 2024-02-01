@@ -1,0 +1,36 @@
+1.What is the difference between UI and UX? Explain in your own words.
+
+Sol:UI refers to the visual elements and design of a product that users interact with. It encompasses the graphical layout, buttons, icons, and other visual elements that users see and interact with on the screen. 
+UX, on the other hand, is a broader concept that encompasses the overall experience users have while interacting with a product. It goes beyond just the visual design and considers the entire user journey, from the moment a user first encounters the product to their ongoing interactions. 
+Difference:UI is more about the look and feel of a product's interface, while UX is concerned with the overall experience a user has throughout their interaction with the product, taking into account usability, functionality, and user satisfaction. 
+
+2.Who is a frontend developer? Explain the roles and responsibilities in your own words.
+
+Sol:A frontend developer is a professional responsible for creating the visual and interactive elements of a website or web application that users directly interact with. Their primary focus is on the client side, ensuring that the user interface and user experience are visually appealing, intuitive, and responsive.
+Responsibilities of a frontend developer are:
+User Interface (UI) Development
+Cross-Browser Compatibility
+Responsiveness and collaboration with backend developers and many more.
+
+3.Who is a backend developer? Explain the roles and responsibilities in your own words.
+
+Sol:A backend developer is a professional responsible for the server-side development of web applications. 
+Roles and Responsibilities of a backend developer are:
+Server-Side Development
+Database Management
+API Development
+Security and Authentication etc
+
+4.Create your own GitHub & LinkedIn accounts. Share the screenshot of both of your accounts and
+share your profile links of GitHub & LinkedIn in the solution
+
+Sol:
+Github id link:https://github.com/AniketSharma03
+
+LinkedIn id link:https://www.linkedin.com/in/aniket-sharma-126605232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+5.Write your first blog on your favorite platform and share the link to the blog. (you can choose any
+topic for writing your first blog)
+
+Sol:
+Blog link :https://aniketsharma.hashnode.dev/about-html-and-css
